@@ -1,0 +1,14 @@
+body {
+    background-color: #1d1d1d;
+    color: #f8f8f8
+}
+
+.button {
+    background-color: #ff2285 !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: #f8f8f8 !important;
+    padding: 16px;
+    display: inline-block;
+    margin: 16px;
+}
