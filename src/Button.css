@@ -1,0 +1,16 @@
+.button {
+  font-size: 16px;
+  padding: 16px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.button-primary {
+  background-color: #ff2285;
+  color: #f8f8f8;
+}
+
+.button-secondary {
+  background-color: #f8f8f8;
+  color: #111;
+}
